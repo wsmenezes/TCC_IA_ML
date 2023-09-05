@@ -20,9 +20,9 @@
 
 Repositório de código do TCC apresentado ao **Curso de Especialização em Inteligência Artificial e Aprendizado de Máquina** como requisito parcial à obtenção do título de Especialista.
 
-**TCC aprovado com nota máxima pela banca examinadora.**
+**TCC aprovado com nota máxima pela banca examinadora (print Histórico de Conslusão abaixo).**
 
-# <img src="./images/TCC_nota_maxima.jpg" height=300 alt="TCC Nota Maxima" />
+# <img src="./images/TCC_nota_maxima.jpg" height=81 alt="TCC Nota Maxima" />
 
 ## Definição do Problema
 
