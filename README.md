@@ -22,6 +22,8 @@ Repositório de código do TCC apresentado ao **Curso de Especialização em Int
 
 **TCC aprovado com nota máxima pela banca examinadora.**
 
+# <img src="./images/TCC_nota_maxima.jpg" height=300 alt="TCC Nota Maxima" />
+
 ## Definição do Problema
 
 * Mercado Financeiro **Volátil** (condição histórica, verdade conhecida).
